@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @王慧猛
+- 👋 Hi, I’m @whm
 - 👀 I’m interested in C++ and C.
 - 🌱 I’m currently learning C++ and java
 - 💞️ I’m looking to collaborate on ...
